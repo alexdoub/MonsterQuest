@@ -5937,13 +5937,13 @@
 		CCAF879114D23B3F00F488EB = {
 			isa = PBXGroup;
 			children = (
-				4270AF24153FD01F00393CC9 /* icon@2x.png */,
-				4270AF22153FD01300393CC9 /* icon.png */,
 				42A57D27153BBFE8006ABBF9 /* AVFoundation.framework */,
 				4268523D1535028200546CC7 /* GameKit.framework */,
 				CC46592314F5CE9C003A3501 /* QuartzCore.framework */,
-				CCAF87A614D23B4000F488EB /* MonsterQuest */,
+				4270AF22153FD01300393CC9 /* icon.png */,
+				4270AF24153FD01F00393CC9 /* icon@2x.png */,
 				CCAF879F14D23B4000F488EB /* Frameworks */,
+				CCAF87A614D23B4000F488EB /* MonsterQuest */,
 				CCAF879D14D23B4000F488EB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -6024,6 +6024,8 @@
 /* Begin PBXProject section */
 		CCAF879314D23B3F00F488EB /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+			};
 			buildConfigurationList = CCAF879614D23B3F00F488EB /* Build configuration list for PBXProject "MonsterQuest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
